@@ -1,2 +1,8 @@
 # AutomaticSampleDetection
-Automatic Sample Detection in Hip Hop Music - Thesis project repo
+This is a repository for my masters in music technology thesis project, Experiments in Automatic Sample Detection in Hip Hop Music. The plots within the main script, 1c_FFNMF.ipynb, illustrate the different steps along the source separation aproach to automatic sample detection, as described in my thesis document.
+
+Please contact me if you would like the audio data and annotations.
+
+Abstract
+
+Sampling in this context dates back to mid-century developments in music technology and composition that dealt with recording environmental sounds and embedding that material into new compositions. As recording and production technologies developed, sampling reached a larger group of producers and composers, predominantly occupying the Hip-Hop and Electronic music genres. With its large-scale impact on music production and consumption, sampling has received attention from fans, musicologists and legal entities who ask questions about musical influence, the evolution of composition, musical plagiarism, and cultural policy. However, a system to determine cases of sampling with high accuracy that accounts for new cases and styles of sampling that are released onto the web everyday does not yet exist. This thesis project draws on prior work to evaluate automatic sample detection experiments. Previous attempts at this task include audio fingerprinting and non-negative matrix factorization (NMF) approaches. Given its promise, this project experimented with the NMF-based approach, which primarily frames sample detection as a source separation task. A ground truth database was compiled and experiments were implemented to evaluate their ability to detect samples in query songs. Ultimately, this project offered immediate takeaways and insight on the use of various NMF implementations and promise for future work in automatic sample detection.
