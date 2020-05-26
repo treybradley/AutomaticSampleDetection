@@ -1,7 +1,7 @@
 # AutomaticSampleDetection
-This is a repository for my masters in music technology thesis project, Experiments in Automatic Sample Detection in Hip Hop Music. The plots within the main script, 1c_FFNMF.ipynb, illustrate the different steps along the source separation aproach to automatic sample detection, as described in my thesis document.
+This is a repository for my masters in music technology thesis project, Experiments in Automatic Sample Detection in Hip Hop Music. The plots within the script, ffnmfDtwPlots.ipynb, illustrate the different steps along the source separation aproach to automatic sample detection, as described in my thesis document.
 
-Please contact me if you would like the thesis document (.pdf) and the audio data and annotations (.csv) that were used in this project.
+Please contact me if you would like the thesis document (.pdf) or the audio data and annotations (.csv) that were used in this project.
 
 
 Abstract:
